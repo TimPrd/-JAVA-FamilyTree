@@ -1,0 +1,12 @@
+#TP SYNTHESE IHM - PARDIEU Timothé
+
+La classe principale se nomme IHM.java (contenu dans le package ihm)
+
++-------------------------------------------------+
+|                   EXECUTION                     |
++-------------------------------------------------+
+|1 - Se placer dans le répertoire TPTimothePardieu|
+|2 - javac @compil.list                           |
+|3 - cd TimothePardieu                            |
+|4 - java ihm.IHM                                 |
++-------------------------------------------------+
